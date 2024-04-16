@@ -3,7 +3,10 @@ Tenzi is a fast-paced dice game where players race to roll all ten of their dice
 Implemented with React.js, it makes extensive use of react hooks like useState.
 
 ## Home
+![Home](home.png)
 
 ## Function Example:
+![Mid game](function.png)
 
 ## End Game:
+![End Game](end_game.png)
