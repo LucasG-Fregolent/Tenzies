@@ -5,7 +5,7 @@ Implemented with React.js, it makes extensive use of react hooks like useState.
 ## Home
 ![Home](images/home.png)
 
-## Function Example:
+## Midgame:
 ![Mid game](images/function.png)
 
 ## End Game:
